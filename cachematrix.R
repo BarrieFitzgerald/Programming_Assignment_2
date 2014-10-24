@@ -1,6 +1,6 @@
-## This is a pair of functions (makeCacheMatrix and cacheSolve) that cache the inverse of the matrix
+## This is a pair of functions (makeCacheMatrix and cacheSolve) that cache the inverse of the matrix.
 
-## This function is for the makeCacheMatrix which will create a special matrix so the iverse
+## This function is for the makeCacheMatrix, which will create a special matrix so the inverse
 ## cache can be performed.
 makeCacheMatrix <- function( a = matrix() ) {
         i <- NULL
